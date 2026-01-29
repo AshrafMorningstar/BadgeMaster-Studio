@@ -1,11 +1,3 @@
-/*
- Copyright (c) 2026 Ashraf Morningstar
- These are personal recreations of existing projects, developed by Ashraf Morningstar
- for learning and skill development.
- Original project concepts remain the intellectual property of their respective creators.
- Repository: https://github.com/AshrafMorningstar
-*/
-
 import React, { useState, useEffect, useRef } from 'react';
 import { generateBadgeGuide } from '../services/geminiService';
 import { Loader2, RefreshCw, BookOpen, Search, Filter, ArrowUpDown, ChevronRight, Trophy, Star, Shield, Lock, ArrowLeft, Plus, X, CheckCircle2, LayoutGrid, LayoutList, Info, Copy, Check, BrainCircuit } from 'lucide-react';
